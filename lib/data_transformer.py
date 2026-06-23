@@ -321,6 +321,10 @@ def addCustomCelebrationstoBreviarData(lelki_batyu: Dict[str, Any]) -> None:
             {"name": "Vigília - Keresztelő Szent János születése"},
             {"name": "Keresztelő Szent János születése"}
         ],
+        "Szent Péter és Szent Pál apostolok": [
+            {"name": "Vigília - Szent Péter és Szent Pál apostolok"},
+            {"name": "Szent Péter és Szent Pál apostolok"}
+        ],
         "Szűz Mária mennybevétele (Nagyboldogasszony)": [
             {"name": "Vigília - Szűz Mária mennybevétele (Nagyboldogasszony)"},
             {"name": "Szűz Mária mennybevétele (Nagyboldogasszony)"}
